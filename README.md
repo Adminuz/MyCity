@@ -46,9 +46,9 @@ Ushbu loyiha **Cyber Camp Hackathon 2025** doirasida ishlab chiqilgan.
 
 | Ism | Roli |
 |-----|------|
-| **Jumanazarov Umidbek** | Flutter dasturchi / Jamoa rahbari |
+| **Jumanazarov Umidbek** | Flutter dasturchi / Team Lead |
 | **Baltayev Rustambek** | Backend dasturchi |
-| **Avezov Zoirjon** | Full-stack dasturchi |
+| **Avezov Zoirjon** | Frontend dasturchi |
 | **Ismoilov Og'abek** | UI/UX dizayner |
 
 ---
