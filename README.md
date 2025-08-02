@@ -11,7 +11,7 @@
 
 ## 🏙️ Loyiha: MyCity — zamonaviy shaharga raqamli yo‘lboshchi
 
-**MyCity** — bu **2GIS** ilhomi asosida yaratilgan, shaharning barcha muhim servislarini (joylashuv, muassasalar, ob-havo, tadbirlar, namoz vaqtlari) birlashtiruvchi mobil ilova.  
+**MyCity** —  shaharning barcha muhim servislarini (joylashuv, muassasalar, ob-havo, tadbirlar, namoz vaqtlari) birlashtiruvchi mobil ilova.  
 Ushbu loyiha **Cyber Camp Hackathon 2025** doirasida ishlab chiqilgan.
 
 ---
